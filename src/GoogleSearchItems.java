@@ -5,9 +5,9 @@ public class GoogleSearchItems {
     //URL
     String URL;
     //Title
-    String Title
-    //Discription
-    long discription ;
+    String title;
+    //description
+    String description ;
    
     //behaviour(functions)
     //open it
