@@ -1,14 +1,16 @@
-public class google {
+public class GoogleSearchItems {
 
 
 //states
-    //home
-    //google account
-    //google apps
-    //search bar
-
-//behaviour(functions)
-    //search
-    //voice search
-    //image search
+    //URL
+    String URL;
+    //Title
+    String Title
+    //Discription
+    long discription ;
+   
+    //behaviour(functions)
+    //open it
+    // readable
+   
 }
